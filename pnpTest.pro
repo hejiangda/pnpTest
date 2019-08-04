@@ -27,4 +27,5 @@ DISTFILES += \
     Img/img07.png \
     Img/img08.jpg \
     LICENSE \
-    README.md
+    README.md \
+    out_camera_data.xml
