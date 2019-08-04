@@ -19,5 +19,12 @@ HEADERS += \
     Driver/RMVideoCapture.hpp
 
 DISTFILES += \
+    Img/img01.jpg \
+    Img/img03.jpg \
+    Img/img04.jpg \
+    Img/img05.jpg \
+    Img/img06.jpg \
+    Img/img07.png \
+    Img/img08.jpg \
     LICENSE \
     README.md
