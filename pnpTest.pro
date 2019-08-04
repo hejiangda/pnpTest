@@ -17,3 +17,7 @@ SOURCES += \
 
 HEADERS += \
     Driver/RMVideoCapture.hpp
+
+DISTFILES += \
+    LICENSE \
+    README.md
