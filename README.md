@@ -2,7 +2,7 @@
 使用solvePnP来测量二维码相对于摄像头的位置。二维码扫码代码参考：https://github.com/spmallick/learnopencv/tree/master/barcode-QRcodeScanner
 
 实验环境：
-摄像头：ks8a17,qt：5.13,OpenCV：3.4.6，OS：Ubuntu 16.04
+摄像头：ks8a17，qt：5.13，OpenCV：3.4.6，OS：Ubuntu 16.04
 
 解算位置的代码为以下几行：
 ```c
