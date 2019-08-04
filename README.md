@@ -45,11 +45,11 @@ cout <<"tvec: "<<tVec<<endl;
 
 接下来用尺子测量摄像头和二维码间的距离，看看我们测得的摄像头与二维码平面的距离是否正确：
 
-![img05](/home/happy/桌面/到 日志 的链接/robomaster/6/img05.jpg)
+![img05](./Img/img05.jpg)
 
 离近一点看
 
-![img06](/home/happy/桌面/到 日志 的链接/robomaster/6/img06.jpg)
+![img06](./Img/img06.jpg)
 
 可以看到在26.6cm左右的地方恰好接近摄像头镜头的中心处，说明测得的结果是准确的。
 
